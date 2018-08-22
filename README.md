@@ -6,3 +6,5 @@ Innovation (or reading the instructions) takes place when there is no other alte
 
 Finally figured out how to edit this file.  This is being done on Rpi.  See if we can get a commit message
 this time 22Aug18
+
+OK....Got the RPi update.  Now, this is on Windows Desktop
